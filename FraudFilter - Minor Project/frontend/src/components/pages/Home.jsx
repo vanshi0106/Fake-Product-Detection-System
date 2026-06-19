@@ -336,7 +336,7 @@ const Home = () => {
                             <div className="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-4 px-4">
                                 {/* GitHub Repo Button */}
                                 <a
-                                    href="https://github.com/its-maneeshk/Fake-Product-Detection-System.git"
+                                    href="https://github.com/vanshi0106"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="flex items-center justify-center font-semibold text-gray-950 bg-[#E2FECC] py-6 px-6 rounded-lg w-full sm:w-auto hover:bg-white hover:scale-105 transition-transform focus:outline-none shadow-md"

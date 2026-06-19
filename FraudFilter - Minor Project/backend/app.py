@@ -87,12 +87,13 @@ def analyze_product():
     url = data["url"]
 
     # Scrape reviews from product URL
-    prod_id, product_name, csv_path, df = scrape_reviews(url) # Ignore `csv_path` to avoid duplicate saving
+    print("Error: ", scrape_reviews(url))
+    prod_id, product_name, csv_path, df = scrape_reviews(url) # Ignore csv_path to avoid duplicate saving
 
     if df is None or df.empty:
         return jsonify({"error": "No reviews found or scraping failed."}), 500
 
-    # ✅ Pass only "customer_review" to the ML model for processing
+    # Pass only "customer_review" to the ML model for processing
     result = detect_fake_reviews(df, model, vectorizer)
 
     return jsonify({
