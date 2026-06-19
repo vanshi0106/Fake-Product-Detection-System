@@ -152,11 +152,7 @@ All trademarks and product information belong to their respective owners.
 
 ## 📬 Contact  
 
-💻 **Developed by [Manish Patel](https://github.com/its-maneeshk)**  
-
-📧 **Email:** [maneeshkurmii@gmail.com](mailto:maneeshkurmii@gmail.com)  
-🔗 **LinkedIn:** [itsmaneeshk](https://www.linkedin.com/in/itsmaneeshk/)  
-📷 **Instagram:** [its_maneeshk_](https://www.instagram.com/its_maneeshk_/)  
+💻 **Developed by [Vanshika Mahajan](https://github.com/vanshi0106)** 
 
 ---
 
@@ -172,4 +168,4 @@ All trademarks and product information belong to their respective owners.
 
 ---
 
-🔹 **Follow my work on** [GitHub](https://github.com/its-maneeshk) & let's build something amazing together! 🚀
+
